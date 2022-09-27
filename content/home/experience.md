@@ -52,7 +52,7 @@ experience:
     location: Pune
     date_start: '2018-07-01'
     date_end: '2019-06-20'
-    description: Represented college as a team leader, and Robots Operator at ROBOCON INDIA 2019.
+    description: Represented college as a team leader, and Robots Operator at DD ROBOCON INDIA 2019.
 
   - title: Robocon Participant
     company: PICT Robotics
