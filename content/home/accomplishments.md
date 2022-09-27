@@ -45,7 +45,7 @@ item:
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: 'Object-Orietedd Programming in R'
     url: ''
 
 design:
