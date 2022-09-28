@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Courses'
 subtitle:
 
 # Date format
@@ -45,7 +45,7 @@ item:
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Orieted Programming in R'
+    title: 'Object-Oriented Programming in R'
     url: ''
 
 design:
