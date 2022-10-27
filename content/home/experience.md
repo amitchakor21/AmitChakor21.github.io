@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Asssociate Software Developer
+  - title: Software Engineer
     company: IDeaS a sas company
     company_url: 'https://ideas.com/'
     company_logo: sas-logo
     location: Pune
-    date_start: '2021-08-10'
+    date_start: '2020-08-10'
     date_end: ''
     description: |2-
         Responsibilities include:
