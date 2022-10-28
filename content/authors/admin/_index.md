@@ -14,7 +14,7 @@ organizations:
     url: https://ideas.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -61,6 +61,6 @@ email: ''
 highlight_name: true
 --- 
 
-Hi!! I'm an IT Engineer who loves to bring IDEAS into reality. Being a Technology enthusiast, I help people to modernize their experiences. Powered by VS Code, Photoshop, and Cad Modelings is my Bread n Butter. Believing in loyalty, customer satisfaction and future demand for a solution helps me to stay motivated. Staying in tune with AI and Robotics is another reason that makes me feel all-rounder. I am confident that my skill set would be an excellent addition to your organization.
+Hi!! I'm an IT Engineer who loves to bring IDEAS into reality. Being a Technology enthusiast, I love to stay up to date with Web designing, AI, and Robotics. You will mostly find my PC Ram primarily busy with VS Code, Matlab, and Solidworks. Besides tech, believing in loyalty, customer satisfaction, and solving problems in the simplest possible way helps me stay motivated. Come join me on my journey full of wild roller coasters.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AmitChakor.pdf" "newtab" >}}resumé{{< /staticref >}}.
