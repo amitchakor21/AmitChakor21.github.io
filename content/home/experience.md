@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Robotics Engineering Intern
+  - title: Mechatronics Intern
     company: Adamant Engineer Private Limited
     company_url: 'https://adamantengineers.com/'
     # company_logo: org-x
     location: Nashik
     date_start: '2020-06-01'
     date_end: '2020-07-31'
-    description: Created a 2-axis filament winding machine(CNC) to produce FRP tubes and shafts.
+    description: Created a 2-axis filament winding machine to produce FRP tubes.
 
   - title: Robocon Team Lead
     company: PICT Robotics
