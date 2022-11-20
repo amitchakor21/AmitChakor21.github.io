@@ -61,6 +61,6 @@ email: ''
 highlight_name: true
 --- 
 
-Hi!! I'm an IT Engineer who loves to bring IDEAS into reality. Being a Technology enthusiast, I love to stay up to date with Web designing, AI, and Robotics. You will mostly find my PC Ram primarily busy with VS Code, Matlab, and Solidworks. Besides tech, believing in loyalty, customer satisfaction, and solving problems in the simplest possible way helps me stay motivated. Come join me on my journey full of wild roller coasters.
+Hi!! I'm an IT Engineer who loves to bring IDEAS into reality. Being a Technology enthusiast, I love to stay up to date with Web designing, AI, and Robotics. You will mostly find my PC Ram primarily busy with VS Code, Matlab, and Solidworks. Come join me on my journey full of wild roller coasters.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AmitChakor.pdf" "newtab" >}}resumé{{< /staticref >}}.
